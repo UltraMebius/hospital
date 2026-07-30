@@ -10,6 +10,28 @@
 第三阶段(长尾增强,~2 周):选取 1–2 个升级无法覆盖、对循证准确率影响最大的失败模式,实现并验证改进方案,给出改进前后在解析层与 RAG 层的对比增益。建议优先方向:低质量扫描件的图像层增强、复杂医学表格的保结构解析。
 六周末阶段汇报交付:评估集 + 双层指标体系 + 版本升级收益量化 + 失败归因报告 + 1–2 个长尾失败模式的改进原型与效果。
 
+## 快速开始
+
+项目采用 Python 3.10+，核心评估代码不依赖 GPU 或第三方运行时。开发环境安装：
+
+```bash
+python -m venv .venv
+source .venv/bin/activate
+python -m pip install -e '.[dev]'
+make check
+```
+
+校验人工评估集及计算 RAG 指标：
+
+```bash
+hospital-eval validate-dataset data/processed/evaluation_cases.jsonl
+hospital-eval score data/processed/evaluation_cases.jsonl predictions.jsonl
+```
+
+MinerU 的命令行、后端及超时时间通过 `configs/baseline.example.json` 配置，避免将
+GPU/模型环境与评估代码耦合。解析器输出统一为 `chunks.jsonl`，详细数据契约与扩展方式
+见 [`docs/architecture.md`](docs/architecture.md)。
+
 ## 需解决的关键技术问题：
 
 解析质量的下游导向度量:定义并自动化评估"对 RAG 有用的解析质量",建立解析层指标与下游检索/回答质量之间的可量化关联,而非仅看孤立解析准确率。
