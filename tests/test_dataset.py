@@ -17,4 +17,3 @@ def test_cases_round_trip(tmp_path: Path) -> None:
     path = tmp_path / "cases.jsonl"
     write_cases(path, cases)
     assert load_cases(path) == cases
-

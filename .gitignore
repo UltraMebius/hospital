@@ -13,4 +13,5 @@ data/interim/*
 data/processed/*
 data/reports/*
 !data/**/.gitkeep
+result/
 

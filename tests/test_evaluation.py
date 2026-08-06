@@ -28,4 +28,3 @@ def test_combined_rag_metrics() -> None:
     assert metrics.exact_match == 1
     assert metrics.token_f1 == 1
     assert metrics.recall_at_k[1] == 1
-

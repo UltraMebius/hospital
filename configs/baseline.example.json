@@ -5,6 +5,21 @@
     "command": ["mineru", "-p", "{input}", "-o", "{output}", "-b", "{backend}"],
     "timeout_seconds": 1800
   },
+  "normalization": {
+    "result_root": "result",
+    "filter_headers_footers": true,
+    "header_footer_edge_blocks": 2,
+    "header_footer_repeat_ratio": 0.5,
+    "extract_citations": true
+  },
+  "hybrid_parsing": {
+    "render_dpi": 300,
+    "minimum_visible_characters": 20,
+    "minimum_cjk_characters": 4,
+    "maximum_suspicious_ratio": 0.05,
+    "ocr_engine": "tesseract",
+    "ocr_language": "chi_sim+eng"
+  },
   "chunking": {
     "max_characters": 1200,
     "overlap_characters": 120,

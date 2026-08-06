@@ -12,7 +12,8 @@
 
 ## 快速开始
 
-项目采用 Python 3.10+，核心评估代码不依赖 GPU 或第三方运行时。开发环境安装：
+项目采用 Python 3.10+。代码按“文档解析 → 质量评估 → 长尾增强”分层；当前先实现前两层，
+长尾增强暂缓。开发环境安装：
 
 ```bash
 python -m venv .venv
@@ -21,6 +22,36 @@ python -m pip install -e '.[dev]'
 make check
 ```
 
+推荐使用 PDF、MinerU 和 OCR 的混合解析。程序会自动按 PDF 文件名匹配对应的
+`*_content_list.json` 或 `.jsonl`；使用官方 content-list 文件时还会自动读取同目录的
+`*_middle.json`，优先恢复中文原生文本，并保留 MinerU 的 LaTeX 公式；
+表格统一输出为 Markdown：
+
+```bash
+python -m file.cli parse-hybrid first_ten --result-root result
+```
+
+程序会从摘要和关键词之后的正文块判断单双栏。双栏页面按“左栏完整读取 → 右栏完整读取 →
+下一页”的顺序写入；具体判断可在每篇文章 `manifest.json` 的 `layout` 字段查看。
+
+如果已安装 Tesseract 及 `chi_sim` 中文语言包，可为中文仍不完整的页面开启 OCR：
+
+```bash
+python -m file.cli parse-hybrid first_ten --result-root result \
+  --ocr-engine tesseract --ocr-language chi_sim+eng \
+  --ocr-figures --require-complete-text
+```
+
+仅将现有 MinerU 导出归一化到 `result/`：
+
+```bash
+python -m file.cli normalize-mineru first_ten --result-root result
+```
+
+输出分别位于 `result/jsonl/<文章名称>`、`result/figures/<文章名称>` 和
+`result/citations/<文章名称>`。正文结果保留中英文、数字和公式，重复页眉页脚会被过滤并
+另存审计记录。
+
 校验人工评估集及计算 RAG 指标：
 
 ```bash
@@ -28,9 +59,9 @@ hospital-eval validate-dataset data/processed/evaluation_cases.jsonl
 hospital-eval score data/processed/evaluation_cases.jsonl predictions.jsonl
 ```
 
-MinerU 的命令行、后端及超时时间通过 `configs/baseline.example.json` 配置，避免将
-GPU/模型环境与评估代码耦合。解析器输出统一为 `chunks.jsonl`，详细数据契约与扩展方式
-见 [`docs/architecture.md`](docs/architecture.md)。
+MinerU 的命令行、后端、超时时间和归一化参数通过 `configs/baseline.example.json`
+记录，避免将 GPU/模型环境与评估代码耦合。详细数据契约与扩展方式见
+[`docs/architecture.md`](docs/architecture.md)。
 
 ## 需解决的关键技术问题：
 

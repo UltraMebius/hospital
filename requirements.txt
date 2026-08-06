@@ -1,0 +1,5 @@
+# Install the local package together with the development tools declared in pyproject.toml.
+-e .[dev]
+
+# MinerU is intentionally managed in its own model/GPU environment.
+# Tesseract OCR and its chi_sim language data are optional system dependencies.

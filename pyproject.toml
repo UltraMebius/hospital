@@ -10,7 +10,9 @@ readme = "README.md"
 requires-python = ">=3.10"
 license = {text = "MIT"}
 authors = [{name = "Hospital Research Team"}]
-dependencies = []
+dependencies = [
+  "PyMuPDF>=1.26,<2",
+]
 
 [project.optional-dependencies]
 dev = [
@@ -20,14 +22,16 @@ dev = [
 ]
 
 [project.scripts]
+hospital-file = "file.cli:main"
 hospital-eval = "hospital_eval.cli:main"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/hospital_eval"]
+packages = ["file", "src/hospital_eval"]
 
 [tool.pytest.ini_options]
 addopts = "-q"
 testpaths = ["tests"]
+pythonpath = [".", "src"]
 
 [tool.ruff]
 line-length = 100
