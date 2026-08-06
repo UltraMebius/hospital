@@ -1,0 +1,184 @@
+{
+  "article_name": "《2016年欧洲心脏病学会心房颤动管理指南》解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会心房颤动管理指南》解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会心房颤动管理指南》解读.pdf",
+  "counts": {
+    "content_blocks": 384,
+    "figures_and_tables": 14,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [
+    "image-0002"
+  ],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "native_pdf",
+    "6": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 295,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 295.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1554,
+        "cjk_characters": 1047,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4695.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 194,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 194.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1606,
+        "cjk_characters": 1163,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5095.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1931,
+        "cjk_characters": 1350,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5981.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 194,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 194.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2038,
+        "cjk_characters": 1663,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 7027.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1155,
+        "cjk_characters": 876,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 3783.0,
+        "acceptable": true
+      }
+    },
+    "6": {
+      "mineru": {
+        "visible_characters": 3770,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 3770.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 4252,
+        "cjk_characters": 220,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4912.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 202.81915283203125,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 1430,
+        "left_characters": 777,
+        "right_characters": 653
+      },
+      "2": {
+        "body_characters": 1606,
+        "left_characters": 483,
+        "right_characters": 764
+      },
+      "3": {
+        "body_characters": 1931,
+        "left_characters": 563,
+        "right_characters": 623
+      },
+      "4": {
+        "body_characters": 2038,
+        "left_characters": 603,
+        "right_characters": 600
+      },
+      "5": {
+        "body_characters": 1155,
+        "left_characters": 703,
+        "right_characters": 375
+      },
+      "6": {
+        "body_characters": 4252,
+        "left_characters": 854,
+        "right_characters": 3321
+      }
+    }
+  },
+  "table_extraction_source": "native_pdf_title_to_note",
+  "native_table_count": 8
+}

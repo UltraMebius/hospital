@@ -1,0 +1,209 @@
+{
+  "article_name": "《2020美国重症医学会指南—ICU成人急性和慢加急肝衰竭管理》更新解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2020美国重症医学会指南—ICU成人急性和慢加急肝衰竭管理》更新解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2020美国重症医学会指南—ICU成人急性和慢加急肝衰竭管理》更新解读.pdf",
+  "counts": {
+    "content_blocks": 759,
+    "figures_and_tables": 2,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [
+    "image-0002"
+  ],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "native_pdf",
+    "6": "native_pdf",
+    "7": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 1394,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1394.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2444,
+        "cjk_characters": 723,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4613.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 461,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 461.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2184,
+        "cjk_characters": 1484,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6636.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 1111,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1111.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2408,
+        "cjk_characters": 1315,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6353.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 1063,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1063.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2359,
+        "cjk_characters": 1248,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6103.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 924,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 924.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2267,
+        "cjk_characters": 1318,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6221.0,
+        "acceptable": true
+      }
+    },
+    "6": {
+      "mineru": {
+        "visible_characters": 3121,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 3121.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 3781,
+        "cjk_characters": 544,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5413.0,
+        "acceptable": true
+      }
+    },
+    "7": {
+      "mineru": {
+        "visible_characters": 4787,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4787.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 4904,
+        "cjk_characters": 18,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4958.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 324.0152282714844,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 1911,
+        "left_characters": 290,
+        "right_characters": 254
+      },
+      "2": {
+        "body_characters": 2184,
+        "left_characters": 1069,
+        "right_characters": 1045
+      },
+      "3": {
+        "body_characters": 2408,
+        "left_characters": 1128,
+        "right_characters": 1212
+      },
+      "4": {
+        "body_characters": 2359,
+        "left_characters": 1148,
+        "right_characters": 1144
+      },
+      "5": {
+        "body_characters": 2267,
+        "left_characters": 1138,
+        "right_characters": 1064
+      },
+      "6": {
+        "body_characters": 3781,
+        "left_characters": 1230,
+        "right_characters": 2441
+      },
+      "7": {
+        "body_characters": 4904,
+        "left_characters": 2376,
+        "right_characters": 2463
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

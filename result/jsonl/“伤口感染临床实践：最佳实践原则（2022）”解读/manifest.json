@@ -1,0 +1,157 @@
+{
+  "article_name": "“伤口感染临床实践：最佳实践原则（2022）”解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\“伤口感染临床实践：最佳实践原则（2022）”解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\“伤口感染临床实践：最佳实践原则（2022）”解读.pdf",
+  "counts": {
+    "content_blocks": 418,
+    "figures_and_tables": 0,
+    "citations": 129,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 1127,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1127.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2172,
+        "cjk_characters": 857,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4743.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 147,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 147.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1955,
+        "cjk_characters": 1625,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6830.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 276,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 276.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2075,
+        "cjk_characters": 1573,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6794.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 2743,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 2743.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 3484,
+        "cjk_characters": 487,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4945.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 2262,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 2262.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 3009,
+        "cjk_characters": 475,
+        "suspicious_characters": 46,
+        "suspicious_ratio": 0.015287470920571618,
+        "score": 3974.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 448.7239685058594,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 810,
+        "left_characters": 456,
+        "right_characters": 354
+      },
+      "2": {
+        "body_characters": 1955,
+        "left_characters": 941,
+        "right_characters": 961
+      },
+      "3": {
+        "body_characters": 2075,
+        "left_characters": 1021,
+        "right_characters": 999
+      },
+      "4": {
+        "body_characters": 3484,
+        "left_characters": 1471,
+        "right_characters": 1962
+      },
+      "5": {
+        "body_characters": 3009,
+        "left_characters": 1278,
+        "right_characters": 1141
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

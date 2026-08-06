@@ -1,0 +1,132 @@
+{
+  "article_name": "《2024年加拿大泌尿学会指南：女性压力性尿失禁》解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2024年加拿大泌尿学会指南：女性压力性尿失禁》解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2024年加拿大泌尿学会指南：女性压力性尿失禁》解读.pdf",
+  "counts": {
+    "content_blocks": 338,
+    "figures_and_tables": 2,
+    "citations": 103,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 2241,
+        "cjk_characters": 765,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4536.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2344,
+        "cjk_characters": 866,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4942.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 1806,
+        "cjk_characters": 1159,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5283.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 1963,
+        "cjk_characters": 1364,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6055.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 2709,
+        "cjk_characters": 879,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5346.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2643,
+        "cjk_characters": 894,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5325.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 2438,
+        "cjk_characters": 73,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 2657.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2464,
+        "cjk_characters": 88,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 2728.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 387.6109924316406,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 971,
+        "left_characters": 549,
+        "right_characters": 413
+      },
+      "2": {
+        "body_characters": 1963,
+        "left_characters": 831,
+        "right_characters": 886
+      },
+      "3": {
+        "body_characters": 2643,
+        "left_characters": 967,
+        "right_characters": 1607
+      },
+      "4": {
+        "body_characters": 2464,
+        "left_characters": 1283,
+        "right_characters": 1155
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}
