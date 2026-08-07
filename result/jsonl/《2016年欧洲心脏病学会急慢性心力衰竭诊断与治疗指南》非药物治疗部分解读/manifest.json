@@ -1,0 +1,134 @@
+{
+  "article_name": "《2016年欧洲心脏病学会急慢性心力衰竭诊断与治疗指南》非药物治疗部分解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会急慢性心力衰竭诊断与治疗指南》非药物治疗部分解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会急慢性心力衰竭诊断与治疗指南》非药物治疗部分解读.pdf",
+  "counts": {
+    "content_blocks": 283,
+    "figures_and_tables": 1,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [
+    "image-0001"
+  ],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 430,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 430.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1582,
+        "cjk_characters": 959,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4459.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 747,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 747.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1931,
+        "cjk_characters": 1195,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5516.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 1027,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1027.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2420,
+        "cjk_characters": 1226,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6098.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 1629,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1629.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2574,
+        "cjk_characters": 689,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4641.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 208.05548095703125,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 1439,
+        "left_characters": 745,
+        "right_characters": 691
+      },
+      "2": {
+        "body_characters": 1931,
+        "left_characters": 962,
+        "right_characters": 892
+      },
+      "3": {
+        "body_characters": 2420,
+        "left_characters": 895,
+        "right_characters": 1439
+      },
+      "4": {
+        "body_characters": 2574,
+        "left_characters": 1316,
+        "right_characters": 1181
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

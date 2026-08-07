@@ -1,0 +1,185 @@
+{
+  "article_name": "《2017年国际胰腺病学会共识：可能切除的胰腺导管腺癌的定义和标准》摘译",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2017年国际胰腺病学会共识：可能切除的胰腺导管腺癌的定义和标准》摘译.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2017年国际胰腺病学会共识：可能切除的胰腺导管腺癌的定义和标准》摘译.pdf",
+  "counts": {
+    "content_blocks": 337,
+    "figures_and_tables": 10,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [
+    "image-0002",
+    "image-0004"
+  ],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "native_pdf",
+    "6": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 703,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 703.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1841,
+        "cjk_characters": 961,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4724.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 499,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 499.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2055,
+        "cjk_characters": 1421,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6318.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1440,
+        "cjk_characters": 853,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 3999.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1228,
+        "cjk_characters": 779,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 3565.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2004,
+        "cjk_characters": 1323,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5973.0,
+        "acceptable": true
+      }
+    },
+    "6": {
+      "mineru": {
+        "visible_characters": 197,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 197.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1637,
+        "cjk_characters": 813,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4076.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 307.0010986328125,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 1319,
+        "left_characters": 679,
+        "right_characters": 640
+      },
+      "2": {
+        "body_characters": 2055,
+        "left_characters": 974,
+        "right_characters": 1037
+      },
+      "3": {
+        "body_characters": 1440,
+        "left_characters": 325,
+        "right_characters": 571
+      },
+      "4": {
+        "body_characters": 1228,
+        "left_characters": 469,
+        "right_characters": 715
+      },
+      "5": {
+        "body_characters": 2004,
+        "left_characters": 969,
+        "right_characters": 979
+      },
+      "6": {
+        "body_characters": 1637,
+        "left_characters": 641,
+        "right_characters": 950
+      }
+    }
+  },
+  "table_extraction_source": "native_pdf_title_to_note",
+  "native_table_count": 3
+}

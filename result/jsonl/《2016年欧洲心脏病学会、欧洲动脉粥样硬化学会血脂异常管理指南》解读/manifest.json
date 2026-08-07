@@ -1,0 +1,107 @@
+{
+  "article_name": "《2016年欧洲心脏病学会、欧洲动脉粥样硬化学会血脂异常管理指南》解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会、欧洲动脉粥样硬化学会血脂异常管理指南》解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2016年欧洲心脏病学会、欧洲动脉粥样硬化学会血脂异常管理指南》解读.pdf",
+  "counts": {
+    "content_blocks": 206,
+    "figures_and_tables": 3,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 417,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 417.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1589,
+        "cjk_characters": 960,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4469.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2031,
+        "cjk_characters": 1297,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5922.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 0,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 1.0,
+        "score": 0.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2876,
+        "cjk_characters": 1167,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6377.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 207.8431396484375,
+    "evidence_pages": [
+      1,
+      2,
+      3
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 1452,
+        "left_characters": 704,
+        "right_characters": 746
+      },
+      "2": {
+        "body_characters": 2031,
+        "left_characters": 945,
+        "right_characters": 831
+      },
+      "3": {
+        "body_characters": 2876,
+        "left_characters": 819,
+        "right_characters": 1513
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

@@ -1,0 +1,308 @@
+{
+  "article_name": "《2026年GOLD慢性阻塞性肺疾病诊断、管理及预防全球策略》更新要点解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2026年GOLD慢性阻塞性肺疾病诊断、管理及预防全球策略》更新要点解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2026年GOLD慢性阻塞性肺疾病诊断、管理及预防全球策略》更新要点解读.pdf",
+  "counts": {
+    "content_blocks": 674,
+    "figures_and_tables": 5,
+    "citations": 395,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "mineru",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "mineru",
+    "6": "mineru",
+    "7": "native_pdf",
+    "8": "native_pdf",
+    "9": "native_pdf",
+    "10": "native_pdf",
+    "11": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 2360,
+        "cjk_characters": 733,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4559.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2386,
+        "cjk_characters": 716,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4534.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 2475,
+        "cjk_characters": 1093,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5754.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2527,
+        "cjk_characters": 1093,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5806.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 1581,
+        "cjk_characters": 1134,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4983.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 1956,
+        "cjk_characters": 1374,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6078.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 1470,
+        "cjk_characters": 941,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4293.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2004,
+        "cjk_characters": 1294,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5886.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 2440,
+        "cjk_characters": 1485,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6895.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2384,
+        "cjk_characters": 1468,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6788.0,
+        "acceptable": true
+      }
+    },
+    "6": {
+      "mineru": {
+        "visible_characters": 2476,
+        "cjk_characters": 1273,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6295.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2383,
+        "cjk_characters": 1273,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6202.0,
+        "acceptable": true
+      }
+    },
+    "7": {
+      "mineru": {
+        "visible_characters": 2300,
+        "cjk_characters": 1440,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6620.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2218,
+        "cjk_characters": 1460,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6598.0,
+        "acceptable": true
+      }
+    },
+    "8": {
+      "mineru": {
+        "visible_characters": 3941,
+        "cjk_characters": 617,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5792.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 3992,
+        "cjk_characters": 617,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5843.0,
+        "acceptable": true
+      }
+    },
+    "9": {
+      "mineru": {
+        "visible_characters": 4904,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4904.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 4966,
+        "cjk_characters": 20,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5026.0,
+        "acceptable": true
+      }
+    },
+    "10": {
+      "mineru": {
+        "visible_characters": 5123,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5123.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 5197,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5197.0,
+        "acceptable": false
+      }
+    },
+    "11": {
+      "mineru": {
+        "visible_characters": 4345,
+        "cjk_characters": 15,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4390.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 4405,
+        "cjk_characters": 35,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4510.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [
+    10
+  ],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 2,
+    "body_start_y": 152.40451049804688,
+    "evidence_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 0,
+        "left_characters": 0,
+        "right_characters": 0
+      },
+      "2": {
+        "body_characters": 1943,
+        "left_characters": 1021,
+        "right_characters": 919
+      },
+      "3": {
+        "body_characters": 1956,
+        "left_characters": 890,
+        "right_characters": 1016
+      },
+      "4": {
+        "body_characters": 2004,
+        "left_characters": 878,
+        "right_characters": 1055
+      },
+      "5": {
+        "body_characters": 2384,
+        "left_characters": 1095,
+        "right_characters": 1237
+      },
+      "6": {
+        "body_characters": 2383,
+        "left_characters": 1118,
+        "right_characters": 1194
+      },
+      "7": {
+        "body_characters": 2218,
+        "left_characters": 1062,
+        "right_characters": 1106
+      },
+      "8": {
+        "body_characters": 3992,
+        "left_characters": 1359,
+        "right_characters": 2562
+      },
+      "9": {
+        "body_characters": 4966,
+        "left_characters": 2384,
+        "right_characters": 2532
+      },
+      "10": {
+        "body_characters": 5197,
+        "left_characters": 2674,
+        "right_characters": 2452
+      },
+      "11": {
+        "body_characters": 4405,
+        "left_characters": 2161,
+        "right_characters": 2194
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

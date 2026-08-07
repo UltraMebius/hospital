@@ -1,0 +1,132 @@
+{
+  "article_name": "《2020EACTS、ELSO、STS、AATS成人心脏术后体外生命支持专家共识》解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《2020EACTS、ELSO、STS、AATS成人心脏术后体外生命支持专家共识》解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《2020EACTS、ELSO、STS、AATS成人心脏术后体外生命支持专家共识》解读.pdf",
+  "counts": {
+    "content_blocks": 249,
+    "figures_and_tables": 1,
+    "citations": 66,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 1383,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1383.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2242,
+        "cjk_characters": 606,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4060.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 453,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 453.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2011,
+        "cjk_characters": 1423,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6280.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 267,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 267.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 1980,
+        "cjk_characters": 1503,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6489.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 1780,
+        "cjk_characters": 0,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 1780.0,
+        "acceptable": false
+      },
+      "native_pdf": {
+        "visible_characters": 2543,
+        "cjk_characters": 512,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4079.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 1,
+    "body_start_y": 0.0,
+    "evidence_pages": [
+      1,
+      2,
+      3,
+      4
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 2242,
+        "left_characters": 727,
+        "right_characters": 385
+      },
+      "2": {
+        "body_characters": 2011,
+        "left_characters": 992,
+        "right_characters": 960
+      },
+      "3": {
+        "body_characters": 1980,
+        "left_characters": 996,
+        "right_characters": 925
+      },
+      "4": {
+        "body_characters": 2543,
+        "left_characters": 1121,
+        "right_characters": 1363
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}

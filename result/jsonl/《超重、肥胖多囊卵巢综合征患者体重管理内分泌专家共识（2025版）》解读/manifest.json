@@ -1,0 +1,231 @@
+{
+  "article_name": "《超重、肥胖多囊卵巢综合征患者体重管理内分泌专家共识（2025版）》解读",
+  "source_export": "D:\\pycharm\\hospital\\first_ten\\《超重、肥胖多囊卵巢综合征患者体重管理内分泌专家共识（2025版）》解读.jsonl",
+  "source_pdf": "D:\\pycharm\\hospital\\first_ten\\《超重、肥胖多囊卵巢综合征患者体重管理内分泌专家共识（2025版）》解读.pdf",
+  "counts": {
+    "content_blocks": 869,
+    "figures_and_tables": 0,
+    "citations": 0,
+    "filtered_headers_footers": 0
+  },
+  "missing_assets": [],
+  "parsing_mode": "hybrid",
+  "page_sources": {
+    "1": "native_pdf",
+    "2": "native_pdf",
+    "3": "native_pdf",
+    "4": "native_pdf",
+    "5": "native_pdf",
+    "6": "native_pdf",
+    "7": "native_pdf",
+    "8": "native_pdf"
+  },
+  "page_text_quality": {
+    "1": {
+      "mineru": {
+        "visible_characters": 2533,
+        "cjk_characters": 707,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4654.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2592,
+        "cjk_characters": 717,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4743.0,
+        "acceptable": true
+      }
+    },
+    "2": {
+      "mineru": {
+        "visible_characters": 2276,
+        "cjk_characters": 1443,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6605.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2358,
+        "cjk_characters": 1453,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6717.0,
+        "acceptable": true
+      }
+    },
+    "3": {
+      "mineru": {
+        "visible_characters": 2484,
+        "cjk_characters": 1542,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 7110.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2321,
+        "cjk_characters": 1551,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 6974.0,
+        "acceptable": true
+      }
+    },
+    "4": {
+      "mineru": {
+        "visible_characters": 2613,
+        "cjk_characters": 1580,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 7353.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 2243,
+        "cjk_characters": 1591,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 7016.0,
+        "acceptable": true
+      }
+    },
+    "5": {
+      "mineru": {
+        "visible_characters": 3562,
+        "cjk_characters": 734,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5764.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 3521,
+        "cjk_characters": 744,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5753.0,
+        "acceptable": true
+      }
+    },
+    "6": {
+      "mineru": {
+        "visible_characters": 4267,
+        "cjk_characters": 196,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4855.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 4346,
+        "cjk_characters": 206,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4964.0,
+        "acceptable": true
+      }
+    },
+    "7": {
+      "mineru": {
+        "visible_characters": 4506,
+        "cjk_characters": 250,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5256.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 4597,
+        "cjk_characters": 264,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 5389.0,
+        "acceptable": true
+      }
+    },
+    "8": {
+      "mineru": {
+        "visible_characters": 3573,
+        "cjk_characters": 151,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4026.0,
+        "acceptable": true
+      },
+      "native_pdf": {
+        "visible_characters": 3680,
+        "cjk_characters": 161,
+        "suspicious_characters": 0,
+        "suspicious_ratio": 0.0,
+        "score": 4163.0,
+        "acceptable": true
+      }
+    }
+  },
+  "unresolved_text_pages": [],
+  "ocr_engine": null,
+  "render_dpi": 300,
+  "ocr_figures": false,
+  "layout": {
+    "body_columns": 2,
+    "body_start_page": 2,
+    "body_start_y": 143.1121063232422,
+    "evidence_pages": [
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8
+    ],
+    "page_evidence": {
+      "1": {
+        "body_characters": 0,
+        "left_characters": 0,
+        "right_characters": 0
+      },
+      "2": {
+        "body_characters": 1926,
+        "left_characters": 975,
+        "right_characters": 947
+      },
+      "3": {
+        "body_characters": 2321,
+        "left_characters": 1154,
+        "right_characters": 1104
+      },
+      "4": {
+        "body_characters": 2243,
+        "left_characters": 1077,
+        "right_characters": 1104
+      },
+      "5": {
+        "body_characters": 3521,
+        "left_characters": 1169,
+        "right_characters": 2247
+      },
+      "6": {
+        "body_characters": 4346,
+        "left_characters": 2168,
+        "right_characters": 2122
+      },
+      "7": {
+        "body_characters": 4597,
+        "left_characters": 2459,
+        "right_characters": 2082
+      },
+      "8": {
+        "body_characters": 3680,
+        "left_characters": 1698,
+        "right_characters": 1891
+      }
+    }
+  },
+  "table_extraction_source": "mineru",
+  "native_table_count": 0
+}
